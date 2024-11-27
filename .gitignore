@@ -1,0 +1,14 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and database files
+*.log
+*.sqlite3
+
+# System files
+.DS_Store
+Thumbs.db
