@@ -46,6 +46,10 @@ python-dotenv
 ## Installation
 
 1. Clone the repository or download the code files.
+   ```bash
+   git clone https://github.com/Nabegh-Anane/Sentiment-Analysis-on-Tweets.git
+   cd Sentiment-Analysis-on-Tweets
+   ```
 2. Install the required Python packages:
    ```bash
    pip install -r requirements.txt
@@ -128,8 +132,6 @@ To get your own Twitter API credentials, follow these steps:
 
 Visit my [Portfolio](https://nabeghanane.com/) for more projects and information.
 
-![Portfolio Icon](https://img.icons8.com/ios/50/000000/portfolio.png)
-```
 
 ### Key Elements of the README:
 
