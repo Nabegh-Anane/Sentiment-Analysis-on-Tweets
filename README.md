@@ -67,12 +67,17 @@ python-dotenv
 
 ## Usage
 
-1. After setting up your credentials, run the script:
+1. Download and install `vader_lexicon`, run the script:
+   ```bash
+   python vader_lexicon.py
+   ```
+
+2. After setting up your credentials, run the script:
    ```bash
    python SentimentIntensityAnalyzer.py
    ```
 
-2. The script will collect recent tweets on the topic `"Python programming"`, perform sentiment analysis, and generate a pie chart visualizing the sentiment distribution.
+3. The script will collect recent tweets on the topic `"Python programming"`, perform sentiment analysis, and generate a pie chart visualizing the sentiment distribution.
 
 ## Example
 
