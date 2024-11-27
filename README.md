@@ -120,30 +120,15 @@ To get your own Twitter API credentials, follow these steps:
 
 ![Step 5](https://nabeghanane-portfolio.imgix.net/assets/projects/output/stepsAPITwitter/step5.png)
 
-## Author
-
-**Nabegh Anane**
-
-Visit my [Portfolio](https://nabeghanane.com/) for more projects and information.
-
-
-### Key Elements of the README:
-
-1. **Description**: Provides an overview of what the project does.
-2. **Key Features**: Highlights the key functionalities of the project.
-3. **Advantages**: Lists the benefits of using the project.
-4. **Requirements**: Specifies the dependencies needed for the project to run.
-5. **Installation**: Provides installation instructions, including the `requirements.txt` file.
-6. **Usage**: Explains how to use the project once it's set up.
-7. **Example**: Displays an example output of the sentiment analysis.
-8. **Output (GIF and Image)**: Shows the execution gif and output chart image.
-9. **Future Improvements**: Suggests potential areas for enhancing the project in the future.
-10. **Getting Twitter API Credentials**: Step-by-step guide with images on how to get the necessary Twitter API credentials.
-11. **Author**: Information about the project author with a link to the portfolio.
-
 ### Execution GIF & Output Image:
 These are referenced with URLs as per your provided links:
 - **Execution GIF**: [Sentiment Analysis GIF](https://nabeghanane-portfolio.imgix.net/assets/projects/output/Sentiment-Analysis-on-Tweets.gif)
 
 
 Ensure the `.env` file with your credentials is correctly set up before running the script.
+
+## Author
+
+**Nabegh Anane**
+
+Visit my [Portfolio](https://nabeghanane.com/) for more projects and information.
