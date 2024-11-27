@@ -80,9 +80,6 @@ Here’s an example of how the output will look:
 
 ![Sentiment Distribution](https://nabeghanane-portfolio.imgix.net/assets/projects/output/Sentiment-Analysis-on-Tweets.png)
 
-### Output Example:
-![Execution Gif](https://nabeghanane-portfolio.imgix.net/assets/projects/output/Sentiment-Analysis-on-Tweets.gif)
-
 ## Future Improvements
 
 - **Expanded Analysis**: Incorporate more advanced sentiment analysis models like BERT or GPT.
@@ -147,6 +144,6 @@ Visit my [Portfolio](https://nabeghanane.com/) for more projects and information
 ### Execution GIF & Output Image:
 These are referenced with URLs as per your provided links:
 - **Execution GIF**: [Sentiment Analysis GIF](https://nabeghanane-portfolio.imgix.net/assets/projects/output/Sentiment-Analysis-on-Tweets.gif)
-- **Output Image**: ![Sentiment Distribution](https://nabeghanane-portfolio.imgix.net/assets/projects/output/Sentiment-Analysis-on-Tweets.png)
+
 
 Ensure the `.env` file with your credentials is correctly set up before running the script.
