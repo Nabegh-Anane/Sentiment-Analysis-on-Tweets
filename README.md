@@ -1,6 +1,3 @@
-Here's the README.md for your project, as requested:
-
-```markdown
 # Sentiment Analysis on Tweets
 
 ## Description
