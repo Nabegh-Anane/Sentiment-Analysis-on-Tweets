@@ -97,7 +97,7 @@ Here’s an example of how the output will look:
 To get your own Twitter API credentials, follow these steps:
 
 ### Step 1: Create a Twitter Developer Account
-- Go to the [Twitter Developer Portal](https://developer.twitter.com/) and log in with your Twitter account.
+- Go to the [Twitter Developer Portal 'X Developer Now'](https://developer.x.com/) and log in with your Twitter account.
 - Apply for a developer account if you don't have one. This process includes answering a few questions about how you intend to use the API.
 
 ![Step 1](https://nabeghanane-portfolio.imgix.net/assets/projects/output/stepsAPITwitter/step1.png)
