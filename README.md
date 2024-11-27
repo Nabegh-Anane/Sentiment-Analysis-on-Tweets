@@ -80,11 +80,8 @@ Here’s an example of how the output will look:
 
 ![Sentiment Distribution](https://nabeghanane-portfolio.imgix.net/assets/projects/output/Sentiment-Analysis-on-Tweets.png)
 
-## Output (GIF of Execution)
-
-Watch the project in action below:
-
-![Execution GIF](https://nabeghanane-portfolio.imgix.net/assets/projects/output/Sentiment-Analysis-on-Tweets.gif)
+### Output Example:
+![Execution Gif](https://nabeghanane-portfolio.imgix.net/assets/projects/output/Sentiment-Analysis-on-Tweets.gif)
 
 ## Future Improvements
 
