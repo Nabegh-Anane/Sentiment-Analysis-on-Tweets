@@ -120,7 +120,11 @@ To get your own Twitter API credentials, follow these steps:
 ### Step 5: Add Credentials to `.env` File
 - After retrieving the credentials (Bearer Token), create a `.env` file in your project directory and add your Bearer Token like this:
   ```
-  BEARER_TOKEN=your_bearer_token_here
+   CONSUMER_KEY is the API Key in the Consumer Keys of the APP Tokens 
+   CONSUMER_SECRET is the API Key Secret in the Consumer Keys of the APP Tokens 
+   ACCESS_TOKEN is the Access Token in the Authentication Tokens of the APP Tokens 
+   ACCESS_TOKEN_SECRET is the Access Token Secret in the Authentication Tokens of the APP Tokens 
+   BEARER_TOKEN is the Bearer Token in the Authentication Tokens of the APP Tokens 
   ```
 
 ![Step 5](https://nabeghanane-portfolio.imgix.net/assets/projects/output/stepsAPITwitter/step5.png)
